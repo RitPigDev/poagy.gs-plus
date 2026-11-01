@@ -1,7 +1,7 @@
 # poagy.gs+
 The Poagy game library.
 
-This is the repository for me to keep poagy.gs+ assets and versions. You can play poagy.gs+ [here.](https://sites.google.com/view/poagygs)  
+This is the repository for me to keep poagy.gs+ assets and versions. You can view more info about poagy.gs+ [here.](https://sites.google.com/view/poagygs)  
 
 Please keep in mind that poagy.gs+ is under <b>very active development</b> and is very unstable in its current state.  
 Stable release is expected early-mid November.  
