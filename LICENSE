@@ -1,0 +1,91 @@
+# poagy.gs+ Source-Available License
+
+Copyright (c) 2026 RitPigDev. All rights reserved except as expressly permitted below.
+
+## 1. Definitions
+
+"Software" refers to poagy.gs+, including its source code, user interface, documentation, and associated files distributed by RitPigDev.
+
+"Licensor" refers to RitPigDev or the applicable copyright holder.
+
+"Assets" refers to original artwork, music, characters, graphics, game content, branding, and other creative materials included with the Software.
+
+## 2. Permissions
+
+Subject to the conditions of this License, you are granted a non-exclusive, worldwide, royalty-free, revocable only for violations of this License permission to:
+
+- View, download, and study the Software's publicly available source code.
+- Run the Software for personal, educational, and testing purposes.
+- Modify private copies for personal experimentation, provided those copies are not distributed.
+- Reuse limited portions of original source code in independent software projects, subject to Section 3.
+
+## 3. Limited Code Reuse
+
+You may reuse up to 50 lines of original source code per independent project, provided that:
+
+1. The reused code does not constitute a substantial or functionally complete component of poagy.gs+.
+2. Your project is independently developed and is not a modified, repackaged, or substantially similar version of poagy.gs+.
+3. You retain applicable copyright notices.
+4. You provide attribution to RitPigDev and identify the reused portions.
+5. You do not reuse protected Assets or branding without separate permission.
+
+The 50-line allowance is cumulative per project and may not be circumvented by dividing a project into multiple repositories, files, or releases.
+
+Additional reuse requires prior written permission from the Licensor.
+
+## 4. Restrictions
+
+Without prior written permission from the Licensor, you may not:
+
+- Redistribute, republish, sell, sublicense, or publicly host the complete Software or a substantial portion of it.
+- Distribute modified versions, forks, or repackaged copies of poagy.gs+.
+- Rebrand the Software or represent a modified copy as an independently developed application.
+- Use the Software's protected Assets, logos, names, or branding in another project.
+- Remove or falsify copyright, attribution, or licensing notices.
+- Use multiple small code excerpts to reconstruct a substantial portion of the Software.
+
+These restrictions do not prohibit independently developed software that implements similar general ideas without copying protected material.
+
+## 5. Community Content and Third-Party Materials
+
+Community-submitted games, artwork, music, and other third-party materials remain subject to the rights and licenses of their respective owners.
+
+This License does not grant permission to reuse such materials.
+
+Third-party components distributed under separate licenses remain governed by those licenses.
+
+## 6. Ownership
+
+The Software remains the intellectual property of its applicable copyright holders.
+
+No ownership rights are transferred under this License.
+
+The names "poagy.gs+", "RitPigDev", and associated branding are not licensed for use as trademarks or project identities.
+
+## 7. Termination
+
+The permissions granted by this License terminate automatically if you violate its terms.
+
+Upon termination, you must cease activities that depend on permissions granted by this License and remove unauthorized distributed copies under your control.
+
+Permissions may be restored through written authorization from the Licensor.
+
+## 8. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT, TO THE EXTENT PERMITTED BY APPLICABLE LAW.
+
+## 9. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR SHALL NOT BE LIABLE FOR DAMAGES ARISING FROM THE USE OF OR INABILITY TO USE THE SOFTWARE.
+
+## 10. Additional Permissions
+
+For permission to redistribute, fork, adapt, or reuse larger portions of poagy.gs+, contact RitPigDev through its official development channels.
+
+Any additional permission must be granted in writing by an authorized copyright holder.
+
+---
+
+**This is a source-available license, not an OSI-approved open-source license.**
+
+You may study the source code and reuse limited portions under the conditions above. Redistribution of the complete application or modified versions requires separate permission.
